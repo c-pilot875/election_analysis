@@ -1,5 +1,6 @@
 # election_analysis
 ## Project Overview and Purpose
+
 Request by Colorado Board of Elections staff to complete the most recent election audit of the local congressional election. Specific requests listed below:
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes.
